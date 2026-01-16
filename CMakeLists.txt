@@ -179,4 +179,11 @@ add_executable(2026 main.cpp
         0116_2.cpp
         0116_3.cpp
         0116_4.cpp
-        0116_5.cpp)
+        0116_5.cpp
+        0117_1.cpp
+        0117_2.cpp
+        0117_3.cpp
+        0117_4.cpp
+        0117_5.cpp
+        0117_6.cpp
+        0117_7.cpp)
