@@ -193,4 +193,5 @@ add_executable(2026 main.cpp
         0118_3.cpp
         0118_4.cpp
         0118_5.cpp
-        0118_6.cpp)
+        0118_6.cpp
+        0118_7.cpp)
