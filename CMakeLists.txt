@@ -249,4 +249,13 @@ add_executable(2026 main.cpp
         0124_6.cpp
         0124_7.cpp
         0124_8.cpp
-        0124_9.cpp)
+        0124_9.cpp
+        0124_10.cpp
+        0124_11.cpp
+        0124_12.cpp
+        0125_1.cpp
+        0125_2.cpp
+        0125_3.cpp
+        0125_4.cpp
+        0125_5.cpp
+        0125_6.cpp)
