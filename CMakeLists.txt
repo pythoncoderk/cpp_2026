@@ -291,4 +291,15 @@ add_executable(2026 main.cpp
         0128_3.cpp
         0128_4.cpp
         0128_5.cpp
-        0128_6.cpp)
+        0128_6.cpp
+        0129_1.cpp
+        0129_2.cpp
+        0129_3.cpp
+        0129_4.cpp
+        0129_5.cpp
+        0129_6.cpp
+        0129_7.cpp
+        0129_8.cpp
+        0129_9.cpp
+        0129_10.cpp
+        0129_11.cpp)
