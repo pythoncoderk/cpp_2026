@@ -5,6 +5,6 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    cout << n * m << "\n";
+    cout << m * 2 - n << "\n";
     return 0;
 }
