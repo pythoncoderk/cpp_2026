@@ -5,6 +5,6 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    cout << (n + m - 1) / m << "\n";
+    cout << (n / 60) * m << "\n";
     return 0;
 }
