@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int n;
-    cin >> n;
+    int n, m;
+    cin >> n >> m;
 
-    cout << n / 80 << "\n";
+    cout << n - m << "\n";
     return 0;
 }
