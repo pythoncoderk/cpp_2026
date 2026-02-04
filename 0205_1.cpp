@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
     int n, m;
-    cin >> n >> m;
+    cin >> n;
+    cin >> m;
 
-
-    cout << n * ((m + 30 - 1) / 30) << "\n";
+    cout << n + m << "\n";
     return 0;
 }
