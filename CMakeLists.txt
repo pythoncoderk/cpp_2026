@@ -357,4 +357,8 @@ add_executable(2026 main.cpp
         0207_21.cpp
         0207_22.cpp
         0207_22.cpp
-        0207_23.cpp)
+        0207_23.cpp
+        0208_1.cpp
+        0208_2.cpp
+        0208_3.cpp
+        0208_4.cpp)
