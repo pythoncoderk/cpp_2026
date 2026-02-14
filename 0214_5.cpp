@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int n;
-    cin >> n;
+    string s;
+    cin >> s;
 
-    cout << n * 5 << "\n";
+    cout << s[1] << "\n";
     return 0;
 }

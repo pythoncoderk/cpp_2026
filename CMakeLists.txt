@@ -394,4 +394,9 @@ add_executable(2026 main.cpp
         0213_5.cpp
         0213_6.cpp
         0213_7.cpp
-        0214_1.cpp)
+        0214_1.cpp
+        0214_2.cpp
+        0214_3.cpp
+        0214_4.cpp
+        0214_5.cpp
+        0214_6.cpp)
