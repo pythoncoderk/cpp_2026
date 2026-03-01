@@ -493,4 +493,9 @@ add_executable(2026 main.cpp
         0301_5.cpp
         0301_6.cpp
         0301_7.cpp
-        0301_8.cpp)
+        0301_8.cpp
+        0302_1.cpp
+        0302_2.cpp
+        0302_3.cpp
+        0302_4.cpp
+        0302_5.cpp)
