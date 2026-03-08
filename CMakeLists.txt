@@ -524,4 +524,15 @@ add_executable(2026 main.cpp
         0307_9.cpp
         0307_10.cpp
         0307_11.cpp
-        0307_12.cpp)
+        0307_12.cpp
+        0308_1.cpp
+        0308_2.cpp
+        0308_3.cpp
+        0308_4.cpp
+        0308_5.cpp
+        0308_6.cpp
+        0308_7.cpp
+        0308_8.cpp
+        0308_9.cpp
+        0308_10.cpp
+        0308_11.cpp)
