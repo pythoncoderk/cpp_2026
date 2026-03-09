@@ -1,9 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
+int main() {
     int h, m;
     char c;
     cin >> h >> c >> m;
-    cout << (h + 16) % 24 << ":" << m << endl;
+
+    cout << (h + 16) % 24 << c << m << "\n";
+    return 0;
 }
