@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    string s;
-    getline(cin,s);
+    int n;
+    cin >> n;
 
-    cout << "Best in " << s << "\n";
+    cout << n * (n + 1) / 2 << "\n";
     return 0;
 }
