@@ -638,4 +638,12 @@ add_executable(2026 main.cpp
         0402_1.cpp
         0402_2.cpp
         0402_3.cpp
-        0403_1.cpp)
+        0403_1.cpp
+        0404_1.cpp
+        0404_2.cpp
+        0404_3.cpp
+        0404_4.cpp
+        0404_5.cpp
+        0404_6.cpp
+        0404_7.cpp
+        0404_8.cpp)
