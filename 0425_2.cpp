@@ -1,0 +1,10 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n, m;
+    cin >> n >> m;
+
+    cout << max(0, n - 3) * m + 500 << "\n";
+    return 0;
+}
