@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int n, m;
-    cin >> n >> m;
+    string s;
+    cin >> s;
 
-    cout << n * m << "\n";
+    cout << max(0, (int)s.size() - 10) << "\n";
     return 0;
 }
