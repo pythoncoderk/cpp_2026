@@ -767,4 +767,8 @@ add_executable(2026 main.cpp
         0429_4.cpp
         0429_5.cpp
         0429_6.cpp
-        0429_6.cpp)
+        0429_6.cpp
+        0430_1.cpp
+        0430_2.cpp
+        0430_3.cpp
+        0430_4.cpp)
