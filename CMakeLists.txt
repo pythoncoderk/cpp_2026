@@ -804,4 +804,5 @@ add_executable(2026 main.cpp
         0511_1.cpp
         0512_1.cpp
         0513_1.cpp
-        0514_1.cpp)
+        0514_1.cpp
+        0515_1.cpp)
