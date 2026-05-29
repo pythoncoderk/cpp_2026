@@ -830,4 +830,9 @@ add_executable(2026 main.cpp
         0526_1.cpp
         0527_1.cpp
         0528_1.cpp
-        0529_1.cpp)
+        0529_1.cpp
+        0530_1.cpp
+        0530_2.cpp
+        0530_3.cpp
+        0530_4.cpp
+        0530_5.cpp)
