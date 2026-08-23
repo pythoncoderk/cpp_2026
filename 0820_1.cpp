@@ -11,6 +11,6 @@ int main() {
             return 0;
         }
     }
-    cout << "NO" << "\n";
+    cout << "NG" << "\n";
     return 0;
 }
