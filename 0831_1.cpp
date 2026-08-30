@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s1;
+    cin >> s1;
+
+    for (int i = 0; i < s1.length(); i++) {
+        cout << s1[i] << "\n";
+    }
+    return 0;
+}
